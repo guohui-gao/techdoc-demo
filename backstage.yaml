@@ -6,7 +6,7 @@ metadata:
   # Example for optional annotations
   annotations:
     #github.com/project-slug: guohui-gao/techdoc-demo
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: url:https://github.com/guohui-gao/backstage/tree/mkdocs/examples/techdoc
   links:
     - url: https://jira.org
       title: JIRA Board
