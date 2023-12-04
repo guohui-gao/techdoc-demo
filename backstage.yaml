@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: techdoc-demo
+  description: Techdoc Demo
+  # Example for optional annotations
+  annotations:
+    #github.com/project-slug: guohui-gao/techdoc-demo
+    backstage.io/techdocs-ref: dir:.
+  links:
+    - url: https://jira.org
+      title: JIRA Board
+      icon: dashboard
+spec:
+  type: service
+  owner: guest
+  lifecycle: experimental
+
