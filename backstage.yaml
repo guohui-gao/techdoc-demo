@@ -8,7 +8,7 @@ metadata:
     github.com/project-slug: guohui-gao/techdoc-demo
     backstage.io/techdocs-ref: url:https://github.com/guohui-gao/backstage/tree/mkdocs/examples/techdoc
     backstage.io/source-location: dir:.
-    jenkins.io/job-full-name: Folder/test-freestyle
+    jenkins.io/job-full-name: Folder
   links:
     - url: https://jira.org
       title: JIRA Board
